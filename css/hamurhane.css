@@ -1,0 +1,15 @@
+/************************************* hamurhane css */
+/*  paragraf özellikleri */
+p{
+    font-size: 20px;
+}
+/* başlık özellikleri */
+h1 , h2, h3, h4, h5, h6 {
+    color: blueviolet;
+}
+/* liste özellikleri */
+ul ,ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* zemin rengi */
+
